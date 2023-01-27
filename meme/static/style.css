@@ -1,0 +1,16 @@
+.myDiv {
+    padding-bottom: 50px;
+}
+
+img {
+    display: inline-block;
+    max-width: 60%;
+    max-height: 40%;
+    margin: auto;
+    padding: auto;
+
+}
+
+a {
+    display: block;
+}
